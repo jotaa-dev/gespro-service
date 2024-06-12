@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.api</groupId>
 	<artifactId>gespro-service</artifactId>
-	<version>1.0.10-SNAPSHOT</version>
+	<version>version-test-1.0.10</version>
 	<name>gespro-service</name>
 	<description>Api Rest Service</description>
 	<properties>

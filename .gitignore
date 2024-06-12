@@ -202,3 +202,4 @@ README.html
 mvnw
 mvnw.cmd
 src/main/resources/application.properties
+src/main/resources/application-local.properties
